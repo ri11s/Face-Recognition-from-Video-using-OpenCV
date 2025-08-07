@@ -1,3 +1,4 @@
+#  Face Recognition from Video using OpenCV
 
 A simple Python project that performs **real-time face detection** on a video file using OpenCV’s Haar Cascade classifier.
 
