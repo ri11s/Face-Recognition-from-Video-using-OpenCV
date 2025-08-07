@@ -36,8 +36,11 @@ python face_detection.py
 
 Tips
  • If no faces are detected:
+ 
  • Try increasing scaleFactor to 1.2
+ 
  • Or reduce minNeighbors to 3
+ 
  • Make sure the video has clear lighting and visible faces
 
 ⸻
@@ -49,6 +52,9 @@ You can add your own test video manually.
 ⸻
 
 Technologies Used
+
  • Python
- • OpenCV
+ 
+• OpenCV
+
  • Haar Cascade Classifier
